@@ -11,6 +11,31 @@ El trayecto formativo de "Desarrollador de Dispositivos IoT" busca formar técni
 - Integración y gestión de datos en sistemas IoT
 - Implementación de medidas de seguridad en dispositivos y redes IoT
 
+## Materias y Docentes Responsables
+
+### Materia: Sensores y Actuadores
+- **Profesor:** Jorge Morales
+- **Stack Tecnológico:**
+  - Sensores resistivos, de reactancia variable, electromagnéticos, generadores digitales, sensores inteligentes, instrumentación digital.
+  - Protocolos: UART, USART, SPI, I2C.
+  - Visualización de datos: LED, LCD, OLED.
+  - Interfaces de entrada/salida: Switch, pulsadores, teclados, relés, contactores, DIAC, TRIAC, optoacopladores, RFID.
+  - Actuadores: Hidráulicos, neumáticos, eléctricos.
+  - Firmware IoT, entornos de programación, digitalización de señales, seguridad de dispositivos.
+
+### Materia: Redes
+- **Profesor:** Dante Violi
+- **Stack Tecnológico:**
+  - TCP/IP, protocolo 802.3, IPv4/IPv6, ARP, TCP/UDP, HTTP/DNS, MQTT.
+  - Herramientas: Wireshark, Nmap, Cisco Packet Tracer, virtualización y contenedores.
+
+### Materia: Electrónica Microcontrolada
+- **Profesor:** Gonzalo Vera
+- **Stack Tecnológico:**
+  - Hardware abierto, programación básica, prototipos, creación de librerías, manejo de bus: Serie, SPI, I2C.
+  - Herramientas: ESP32, VSCode, PlatformIO, Wokwi.
+  - Lenguajes: C/C++, MicroPython.
+
 ## Proyecto Central: Gestión y Monitoreo de Recursos Hídricos Locales
 
 **Objetivo del Proyecto:**
