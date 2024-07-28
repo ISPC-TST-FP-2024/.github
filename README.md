@@ -1,4 +1,4 @@
-# Bienvenido a la Formación Profesional: Desarrollador de Dispositivos IoT
+# Bienvenido a la FP: Desarrollador de Dispositivos IoT
 
 Esta organización forma parte del dictado de la FP "Desarrollador de Dispositivos IoT" en el ISPC (Instituto Superior Politécnico de Córdoba), bajo la Dirección General de Educación Técnica y Formación Profesional del Ministerio de Educación de Córdoba.
 
